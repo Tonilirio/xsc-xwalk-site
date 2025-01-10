@@ -8,6 +8,7 @@
 
 .teaser > div {
     grid-area: teaser;
+    margin: 0;
 }
 
 /* teaser image */
