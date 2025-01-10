@@ -2,7 +2,7 @@ export default async function decorate(block) {
   let row = block.firstElementChild;
   const bg = row.querySelector('picture');
   block.append(bg);
-  row.remove();
+  /* row.remove(); */
   const bgP = block.closest('p');
   if (bgP) bgP.remove();
 
