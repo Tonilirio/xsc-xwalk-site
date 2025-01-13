@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/mngsite/:/",
-    "/content/mngsite/metadata.json:/metadata.json",
-    "/content/mngsite/redirects.json:/redirects.json",
+    "/content/xsc-xwalk-site/:/",
+    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
+    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
   ]
 }
