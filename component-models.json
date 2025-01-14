@@ -134,6 +134,13 @@
     "fields": [
       {
         "component": "text",
+        "name": "name",
+        "value": "",
+        "label": "Label",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
         "name": "style",
         "value": "",
         "label": "Style",
